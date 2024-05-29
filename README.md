@@ -1,4 +1,4 @@
-# Data Scientist 
+### Data Scientist 
 
 ## Education 
  B.S.,Computer Science Engineering                       ITM University ( July 2023) [Gujarat, India]
