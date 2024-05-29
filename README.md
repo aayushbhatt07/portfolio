@@ -1,10 +1,10 @@
 ## Data Scientist 
 
-# Education
+## Education
 
-- PG Dip, Artificial Intelligence and Machine Learning    Fanshawe College (Present)  [London, ON, Canada]
+- **PG Dip, Artificial Intelligence and Machine Learning    Fanshawe College (Present)  [London, ON, Canada]
 ---
-- B.S., Computer Science Engineering                      ITM University (July, 2023) [Gujarat,India]
+- **B.S., Computer Science Engineering                      ITM University (July, 2023) [Gujarat,India]
 
 ### Work Experience 
 
